@@ -3,10 +3,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Frontend+developer&hearts;++;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-- 🌱 I’m currently learning **MEAN Stack**
-- 👨‍💻 Check out all my projects at [My Portfolio](https://praneethkumar189.github.io/Portfolio/)
-- 💬 Feel free to ask me about **Angular**
-- 📫 Reach me at **praneethkumar189201@gmail.com**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🔭 I’m currently working on `Front-End ` Development.
+- 🌱 I’m currently learning `Angular` and `NestJs`
+- 👯 I’m looking to collaborate Frontend Developers.
+- 🤔 I’m looking for help with `Nest.Js` Development.
+- ⚙️ I use daily: `.js`,  `.css`, `.ts`
+
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bpraneethkumar189%7D/count.svg" alt="visitor badge"/></p>
