@@ -64,6 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praneethkumar189&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+<p align="center"><img src="https://profile-counter.glitch.me/%7praneethkumar189%7D/count.svg" alt="visitor badge"/></p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praneethkumar189&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
