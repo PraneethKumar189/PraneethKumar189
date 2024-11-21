@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praneeth Kumar Gowda</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+O+Frontend+developer&hearts;++;Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Frontend+developer&hearts;++;Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 - 🌱 I’m currently learning **MEAN Stack**
