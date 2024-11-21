@@ -43,7 +43,6 @@
 <a href=""><img src="https://img.shields.io/badge/-Praneeth%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-praneethkumar189201@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-praneeth%d20kumar.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
 <a href=""><img src="https://img.shields.io/badge/-praneethkumar189-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
