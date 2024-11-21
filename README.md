@@ -60,17 +60,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praneethkumar189&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bpraneethkumar189%7D/count.svg" alt="visitor badge"/></p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praneethkumar189&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethkumar189&" alt="Streak Stats" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethkumar189&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=praneethkumr189&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=praneethkumar189&theme=chartreuse-dark"></p>
