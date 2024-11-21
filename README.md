@@ -25,7 +25,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bpraneethkumar189%7D/count.svg" alt="visitor badge"/></p>
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
