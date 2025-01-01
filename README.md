@@ -3,9 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=%green&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Frontend+developer;++;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<table align="center">
-<tr border="none">
-<td width="100%" align="left">
+
 
 - 🔭 I’m currently working on `Front-End ` Development.
 - 🌱 I’m currently learning `Angular` and `NestJs`
@@ -14,13 +12,9 @@
 - ⚙️ I use daily: `.js`,  `.css`, `.ts`
 
 
-</td>
-
-</tr>
-</table>
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bpraneethkumar189%7D/count.svg" alt="visitor badge"/></p>
+
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
