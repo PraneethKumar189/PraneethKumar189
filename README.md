@@ -5,7 +5,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="100%" align="left">
 
 - 🔭 I’m currently working on `Front-End ` Development.
 - 🌱 I’m currently learning `Angular` and `NestJs`
@@ -15,9 +15,7 @@
 
 
 </td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
+
 </tr>
 </table>
 
@@ -52,16 +50,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
-
-### :link: &nbsp;Connect with me
-
-<p align="center">
-<a href=""><img src="https://img.shields.io/badge/-Praneeth%d20Kumar.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-Praneeth%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-praneethkumar189201@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-praneeth%d20kumar.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-praneethkumar189-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
 
 
 
