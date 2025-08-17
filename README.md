@@ -1,13 +1,27 @@
-<h3 align="center" color:cyan">Hi 👋, I'm Praneeth Kumar Gowda</h3>
+## 👋 Hey there, I’m Praneeth  
 
+🔭 **Currently Working On:**  
+Fullstack Development — building sleek UIs and powerful backends  
 
+🌱 **Learning & Exploring:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+👯 **Looking to Collaborate With:**  
+Passionate **Fullstack Developers** & innovative problem-solvers  
 
-- 🔭 I’m currently working on `Front-End ` Development.
-- 🌱 I’m currently learning `Angular` and `NestJs`
-- 👯 I’m looking to collaborate Frontend Developers.
-- 🤔 I’m looking for help with `Nest.Js` Development.
-- ⚙️ I use daily: `.js`,  `.css`, `.ts`
+🤔 **Need Help With:**  
+![NestJS](https://img.shields.io/badge/NestJS-Help-red?style=flat-square&logo=nestjs)  
+![Scalability](https://img.shields.io/badge/Scalable%20Systems-Help-blue?style=flat-square)  
+
+⚙️ **Tech I Use Daily:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+
 
 
 
