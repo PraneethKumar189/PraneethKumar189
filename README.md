@@ -1,4 +1,4 @@
-## 👋 Hey there, I’m Praneeth  
+##  Hey there, I’m Praneeth  
 
 🔭 **Currently Working On:**  
 Fullstack Development — building sleek UIs and powerful backends  
@@ -10,21 +10,6 @@ Fullstack Development — building sleek UIs and powerful backends
 
 👯 **Looking to Collaborate With:**  
 Passionate **Fullstack Developers** & innovative problem-solvers  
-
-🤔 **Need Help With:**  
-![NestJS](https://img.shields.io/badge/NestJS-Help-red?style=flat-square&logo=nestjs)  
-![Scalability](https://img.shields.io/badge/Scalable%20Systems-Help-blue?style=flat-square)  
-
-⚙️ **Tech I Use Daily:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-
-
-
 
 
 
