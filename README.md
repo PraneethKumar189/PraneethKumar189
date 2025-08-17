@@ -1,14 +1,14 @@
 ##  Hey there, I’m Praneeth  
 
-🔭 **Currently Working On:**  
+ **Currently Working On:**  
 Fullstack Development — building sleek UIs and powerful backends  
 
-🌱 **Learning & Exploring:**  
+ **Learning & Exploring:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-👯 **Looking to Collaborate With:**  
+**Looking to Collaborate With:**  
 Passionate **Fullstack Developers** & innovative problem-solvers  
 
 
